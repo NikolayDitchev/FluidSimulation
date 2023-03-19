@@ -1,0 +1,2 @@
+# FluidSimulation
+Fluid Simulation based on Jos Stam's paper Real-Time Fluid Dynamics for Games (http://graphics.cs.cmu.edu/nsp/course/15-464/Fall09/papers/StamFluidforGames.pdf)
