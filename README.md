@@ -4,8 +4,9 @@ Fluid Simulation based on Jos Stam's paper Real-Time Fluid Dynamics for Games (h
 
 The exe may crash on some versions of Windows 10.
 
-Controls
+Controls:
   Left mouse button will add fluid to the container.
   Rigth mouse click will add solid to the container.
   
  Always when the mouse if moving in the container the surrounding fluid will react to it.
+ The fluid interacts with the solid.
