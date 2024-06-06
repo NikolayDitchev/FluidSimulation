@@ -26,4 +26,6 @@ WORKDIR /usr/src
 RUN cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
 RUN cmake --build build
 
-ENV DISPLAY=host.docker.internal:0.0
+# ENV DISPLAY=host.docker.internal:0.0
+
+CMD [ "build/bin/fluid-sim" ]

@@ -1,3 +1,3 @@
 #pragma once
-const int SIZE = 150;
-const int SCALE = 6;
+const int SIZE = 110;
+const int SCALE = 8;
